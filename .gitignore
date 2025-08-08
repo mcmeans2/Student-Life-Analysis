@@ -1,5 +1,6 @@
 # Ignore all data files
 data/
+results/
 
 # Ignore output files
 *.pdf
