@@ -32,6 +32,7 @@ First, clone this repository to your local machine using Git.
 Bash
 
 git clone https://github.com/mcmeans2/Student-Life-Analysis.git
+
 cd Student-Life-Analysis
 
 2. Download the Dataset
@@ -41,5 +42,6 @@ Once downloaded, locate the activity data.
 
 Place all the activity_uXX.csv files inside the data/studentlife/activity/ directory in your project folder.
 
-3. Create and Activate a Virtual Environment
+3. Create and Activate a Virtual Environment.
+
 This project uses a virtual environment to manage dependencies and avoid conflicts with your system's Python installation.
