@@ -1,6 +1,7 @@
 # StudentLife Analysis
 
 Exploratory Analysis of the StudentLife Dataset
+
 This project performs an exploratory data analysis on the public StudentLife dataset to investigate the relationship between passively collected mobile sensor data for physical activity and student academic performance (GPA). The analysis uses Python and common data science libraries to process, visualize, and model physical activity inferences over a 10 week academic semester.
 
 The StudentLife dataset can be downloaded here: https://www.kaggle.com/datasets/dartweichen/student-life
